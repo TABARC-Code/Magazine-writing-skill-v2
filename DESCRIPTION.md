@@ -1,6 +1,6 @@
 # Repository Description
 
-## Short description (for GitHub repo field — 350 characters max)
+## Short description
 
 A Claude skill for professional magazine and feature writing. Source-validated from seven journalism craft texts. Covers the full workflow: angle development, structure, research, interviewing, prose, revision, pitching, freelance contracts, and short fiction. 15 files, fully cross-wired. One SKILL.md. Author: TABARC-Code.
 
